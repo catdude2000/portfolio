@@ -15,8 +15,7 @@
         "startDate": "2022",
         "description": "An entertainment website that tells fortunes..",
         "images": [
-          // "images/portfolio/animal-shelter/p1.jpg",
-          // "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Screenshot 2022-05-08 194419.png"
         ],
         "url": "https://fortune-404.github.io/Fortune404/",
         "technologies": [
@@ -24,18 +23,6 @@
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           }
-          // {
-          //   "class": "devicon-angularjs-plain",
-          //   "name": "Angular"
-          // },
-          // {
-          //   "class": "devicon-typescript-plain",
-          //   "name": "TypeScript"
-          // },
-          // {
-          //   "class": "devicon-csharp-plain",
-          //   "name": "C#"
-          // }
         ]
       },
       {
@@ -43,15 +30,25 @@
         "startDate": "2022",
         "description": "A model for a real website of a not-for-profit children's theatre.",
         "images": [
-          // "images/portfolio/photography/p1.jpg",
-          // "images/portfolio/photography/p2.jpg"
+          "images/portfolio/odysseyTheaterSnapshot.png"
         ],
         "url": "https://201-final-project.github.io/Odyssey-Theatre/",
         "technologies": [
-          // {
-          //   "class": "devicon-react-original",
-          //   "name": "React"
-          // },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "MovieDex",
+        "startDate": "2021",
+        "description": "A website the suggests movies to watch based on MPAA rating and genre.",
+        "images": [
+          "images/portfolio/Screenshot 2022-07-29 154652.png"
+        ],
+        "url": "https://jschnoebe.github.io/201-Project/",
+        "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
