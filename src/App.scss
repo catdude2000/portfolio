@@ -30,6 +30,7 @@ html {
 }
 
 header {
+	// background-image: '../public/images/portfolio/cat.jpg';
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +39,9 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #2b2ecf;
+	background-image: url('../public/images/portfolio/cat.jpg');
+	color:#ccc;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -72,12 +75,12 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
-	color: white;
+	background-color: #c43c3c;
+	color: rgb(170, 162, 55);
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#f5f8f4, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -95,18 +98,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #9965dd;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #42753b;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #000000;
 	height: 25px;
 }
 
@@ -178,7 +181,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: rgb(37, 101, 105);
 	text-align: center;
 }
 
@@ -389,7 +392,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #a05c5c;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -402,7 +405,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: rgb(104, 27, 27);
 	text-align: center;
 }
 
