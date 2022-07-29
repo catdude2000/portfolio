@@ -1,9 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Mike Pace",
       "section_name": {
-        "about": "About me",
+        "about": "Hello.  My name is Mike Pace.  I was in customer service before switching to software development.  I've always wanted to know how to code software so when I got the opportunity to learn at DeltaV Code School, I was excited to take it.  I want to have a positive impact on tech culture as well as the rest of the world.  I'm interested in developing software purposed for entertainment as well as software for practical uses.  I'm certain my experience in customer service will help me create user-friendly front-end experiences and easy to read back-end code.  I feel this will make me an invaluable member of any team that I work with and I hope you can utilize my skills for mutual benefit.",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
