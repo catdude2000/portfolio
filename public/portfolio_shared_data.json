@@ -11,10 +11,10 @@
         {
           "name": "Linkedin",
           "url": "https://www.linkedin.com/in/michael-pace-ia/",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "public/images/239659531_1439075996477685_7614499846068175051_n.jpg"
+      "image": "mypic.jpg"
     },
     "skills": {
       "icons": [
