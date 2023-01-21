@@ -35,10 +35,12 @@ header {
 	min-height: 450px;
 	width: 100%;
 	background-size: cover;
+	background-image: url('../public/images/portfolio/cat.jpg');
+	// background-image: 'public/images/portfolio/cat.jpg';
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	// background-color: #e9d5a1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -77,16 +79,16 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#d5d3e2, 0.5);
 	padding: 10px 10px 5px 10px;
-	width: 100px;
+	width: 120px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
 }
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #ac585f;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -95,18 +97,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #5f67d2;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #616e27;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #10100e;
 	height: 25px;
 }
 
@@ -120,7 +122,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: rgb(165, 91, 91);
 	overflow: hidden;
 }
 
@@ -139,7 +141,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #a75252;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -175,9 +177,9 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 22px/30px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: px;
 	color: black;
 	text-align: center;
 }
@@ -231,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #6ca166;
 }
 
 .experience-icon {
