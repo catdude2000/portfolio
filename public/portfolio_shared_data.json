@@ -9,12 +9,12 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/michael-pace-ia/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "public/images/239659531_1439075996477685_7614499846068175051_n.jpg"
     },
     "skills": {
       "icons": [

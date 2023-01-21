@@ -104,7 +104,9 @@ class Header extends Component {
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">
-                {name}
+                {name} 
+                <br></br>
+                Will increase your productivity, always become increasingly efficient, and build a stronger connection among your team.
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
